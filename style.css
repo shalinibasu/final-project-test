@@ -250,6 +250,22 @@ a:link{
 a:visited{
   color: #2D3142;
 }
+a { 
+  text-decoration: none; 
+}
+a:visited {
+  text-decoration: none; 
+}
+a:hover { 
+  text-decoration: none; 
+}
+a:focus { 
+  text-decoration: none;
+}
+a:hover, a:active { 
+  text-decoration: none;
+}
+
 .map-tooBar{
   display:flex;
 }
